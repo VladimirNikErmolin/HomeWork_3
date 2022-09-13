@@ -1,0 +1,15 @@
+C:\Users\Vladimir\Desktop\homework_3\Length3D_21\bin\Debug\net6.0\Length3D_21.exe
+C:\Users\Vladimir\Desktop\homework_3\Length3D_21\bin\Debug\net6.0\Length3D_21.deps.json
+C:\Users\Vladimir\Desktop\homework_3\Length3D_21\bin\Debug\net6.0\Length3D_21.runtimeconfig.json
+C:\Users\Vladimir\Desktop\homework_3\Length3D_21\bin\Debug\net6.0\Length3D_21.dll
+C:\Users\Vladimir\Desktop\homework_3\Length3D_21\bin\Debug\net6.0\ref\Length3D_21.dll
+C:\Users\Vladimir\Desktop\homework_3\Length3D_21\bin\Debug\net6.0\Length3D_21.pdb
+C:\Users\Vladimir\Desktop\homework_3\Length3D_21\obj\Debug\net6.0\Length3D_21.csproj.AssemblyReference.cache
+C:\Users\Vladimir\Desktop\homework_3\Length3D_21\obj\Debug\net6.0\Length3D_21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vladimir\Desktop\homework_3\Length3D_21\obj\Debug\net6.0\Length3D_21.AssemblyInfoInputs.cache
+C:\Users\Vladimir\Desktop\homework_3\Length3D_21\obj\Debug\net6.0\Length3D_21.AssemblyInfo.cs
+C:\Users\Vladimir\Desktop\homework_3\Length3D_21\obj\Debug\net6.0\Length3D_21.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\Desktop\homework_3\Length3D_21\obj\Debug\net6.0\Length3D_21.dll
+C:\Users\Vladimir\Desktop\homework_3\Length3D_21\obj\Debug\net6.0\ref\Length3D_21.dll
+C:\Users\Vladimir\Desktop\homework_3\Length3D_21\obj\Debug\net6.0\Length3D_21.pdb
+C:\Users\Vladimir\Desktop\homework_3\Length3D_21\obj\Debug\net6.0\Length3D_21.genruntimeconfig.cache

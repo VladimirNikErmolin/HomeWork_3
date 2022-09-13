@@ -1,0 +1,15 @@
+C:\Users\Vladimir\Desktop\homework_3\CubeNumbers_23\bin\Debug\net6.0\CubeNumbers_23.exe
+C:\Users\Vladimir\Desktop\homework_3\CubeNumbers_23\bin\Debug\net6.0\CubeNumbers_23.deps.json
+C:\Users\Vladimir\Desktop\homework_3\CubeNumbers_23\bin\Debug\net6.0\CubeNumbers_23.runtimeconfig.json
+C:\Users\Vladimir\Desktop\homework_3\CubeNumbers_23\bin\Debug\net6.0\CubeNumbers_23.dll
+C:\Users\Vladimir\Desktop\homework_3\CubeNumbers_23\bin\Debug\net6.0\ref\CubeNumbers_23.dll
+C:\Users\Vladimir\Desktop\homework_3\CubeNumbers_23\bin\Debug\net6.0\CubeNumbers_23.pdb
+C:\Users\Vladimir\Desktop\homework_3\CubeNumbers_23\obj\Debug\net6.0\CubeNumbers_23.csproj.AssemblyReference.cache
+C:\Users\Vladimir\Desktop\homework_3\CubeNumbers_23\obj\Debug\net6.0\CubeNumbers_23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vladimir\Desktop\homework_3\CubeNumbers_23\obj\Debug\net6.0\CubeNumbers_23.AssemblyInfoInputs.cache
+C:\Users\Vladimir\Desktop\homework_3\CubeNumbers_23\obj\Debug\net6.0\CubeNumbers_23.AssemblyInfo.cs
+C:\Users\Vladimir\Desktop\homework_3\CubeNumbers_23\obj\Debug\net6.0\CubeNumbers_23.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\Desktop\homework_3\CubeNumbers_23\obj\Debug\net6.0\CubeNumbers_23.dll
+C:\Users\Vladimir\Desktop\homework_3\CubeNumbers_23\obj\Debug\net6.0\ref\CubeNumbers_23.dll
+C:\Users\Vladimir\Desktop\homework_3\CubeNumbers_23\obj\Debug\net6.0\CubeNumbers_23.pdb
+C:\Users\Vladimir\Desktop\homework_3\CubeNumbers_23\obj\Debug\net6.0\CubeNumbers_23.genruntimeconfig.cache
